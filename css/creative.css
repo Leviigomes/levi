@@ -10818,6 +10818,10 @@ hr.light {
     margin-top: 13%;
     margin-bottom: 20%;
   }
+
+  .move-right {
+    float: none;
+  }
 }
 
 
