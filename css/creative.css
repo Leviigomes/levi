@@ -41,7 +41,7 @@ Meu css, inspirado no template creative do Bootstrap
 }
 
 .margem-topo {
-  margin-top: 5%;
+  margin-top: 3rem;
 
 }
 
@@ -186,7 +186,7 @@ Meu css, inspirado no template creative do Bootstrap
 
 /* Foto do perfil */
 .perfil {
-  margin-top: 10%;
+  margin-top: 3rem;
   width: 37%;
   border-radius: 50%;
   border: 4px solid rgb(255, 255, 255);
@@ -4604,7 +4604,7 @@ input[type="button"].btn-block {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 7.5rem 1rem;
 }
 
 .navbar > .container,
