@@ -1,6 +1,21 @@
 /*!
 Meu css, inspirado no template creative do Bootstrap
  */
+@media (max-width: 766px){
+  #nome {
+    display: none;
+  }
+  #perfil {
+    text-align: center;
+  }
+  #minhadescricao {
+    text-align: center;
+  }
+  .font-description {
+   text-align: center !important;
+  }
+
+}
 
 .my-ul {
   list-style: none;
