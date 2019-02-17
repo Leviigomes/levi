@@ -17,6 +17,10 @@ Meu css, inspirado no template creative do Bootstrap
 
 }
 
+.margem-icones {
+  padding-top: 4rem
+}
+
 .my-ul {
   list-style: none;
 }
@@ -772,6 +776,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: auto;
 }
 
 .row {
