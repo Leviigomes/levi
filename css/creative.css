@@ -225,6 +225,10 @@ width: 28%;
   width: 30%;
   }
 
+.color-bg1{
+  background-color: rgb(40, 41, 46)
+}
+
 *,
 *::before,
 *::after {
@@ -2340,6 +2344,7 @@ textarea.form-control {
 
 .form-group {
   margin-bottom: 1rem;
+  padding-top: 4rem;
 }
 
 .form-text {
@@ -8565,6 +8570,10 @@ button.bg-dark:focus {
 
 .h-25 {
   height: 25% !important;
+}
+
+.h-35{
+  height: 40% !important;
 }
 
 .h-50 {
