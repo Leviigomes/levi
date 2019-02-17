@@ -6,7 +6,6 @@ Meu css, inspirado no template creative do Bootstrap
   margin-right: 0% !important;
 } 
 
-
 @media (max-width: 766px){
   #nome {
     display: none;
@@ -20,11 +19,8 @@ Meu css, inspirado no template creative do Bootstrap
   .font-description {
    text-align: center !important;
   }
-  #icone-social {
-   margin-right: -10% !important;
-  }
-}
-
+ }
+  
 .margem-icones {
   padding-top: 4rem
 }
@@ -194,6 +190,7 @@ Meu css, inspirado no template creative do Bootstrap
   color: gray
 
 }
+
 
 /* Foto do perfil */
 .perfil {
@@ -10989,4 +10986,9 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+
+@media (max-width: 600px){
+  #icone-social {
+  margin-right: -10% !important;
 }
