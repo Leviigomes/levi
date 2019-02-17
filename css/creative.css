@@ -246,7 +246,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: right;
+  text-align: center;
   background-color: #fff;
 }
 
@@ -10449,12 +10449,12 @@ button.bg-dark:focus {
   white-space: nowrap;
 }
 
-.text-left {
-  text-align: left !important;
+/* .text-left {
+  text-align: left !important; */
 }
 
-.text-right {
-  text-align: right !important;
+/* .text-right {
+  text-align: right !important; */
 }
 
 .text-center {
