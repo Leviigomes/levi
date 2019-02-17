@@ -20,8 +20,8 @@ Meu css, inspirado no template creative do Bootstrap
   .font-description {
    text-align: center !important;
   }
-  .icone-social {
-   margin-right: 0% !important;
+  #icone-social {
+   margin-right: -10% !important;
   }
 }
 
