@@ -1,6 +1,12 @@
 /*!
 Meu css, inspirado no template creative do Bootstrap
  */
+
+.aling-sm-dir {
+  margin-right: 0% !important;
+} 
+
+
 @media (max-width: 766px){
   #nome {
     display: none;
@@ -14,7 +20,9 @@ Meu css, inspirado no template creative do Bootstrap
   .font-description {
    text-align: center !important;
   }
-
+  .icone-social {
+   margin-right: 0% !important;
+  }
 }
 
 .margem-icones {
@@ -100,7 +108,7 @@ Meu css, inspirado no template creative do Bootstrap
 .icone-social {
   position: absolute;
   top: 7%;
-  right: 7%;
+  right: 5%;
   z-index: 20;
  }
 
@@ -120,9 +128,9 @@ Meu css, inspirado no template creative do Bootstrap
   width: 20%;
 }
 .icone-social li {
-  float: left;
+  float: right;
   list-style: none;
-  margin: 0 0 0 -45px;
+  margin: 0 0 0 -66px;
 }
 
 .icone-social li a {
@@ -10893,6 +10901,7 @@ hr.light {
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #f4623a;
   }
+    
 }
 
 header.masthead {
