@@ -10463,10 +10463,10 @@ button.bg-dark:focus {
 
 @media (min-width: 576px) {
   .text-sm-left {
-    text-align: left !important;
+    text-align: center !important;
   }
   .text-sm-right {
-    text-align: right !important;
+    text-align: center !important;
   }
   .text-sm-center {
     text-align: center !important;
